@@ -642,7 +642,7 @@ LostEevee_EventScript_4:
 # 316 "data/maps/Route101/scripts.pory"
 	removeobject 7
 # 317 "data/maps/Route101/scripts.pory"
-	setflag FLAG_UNUSED_0x020
+	setflag FLAG_HIDE_LOSTEEVEE_BALL
 # 318 "data/maps/Route101/scripts.pory"
 	msgbox LostEevee_EventScript_Text_4, MSGBOX_YESNO
 # 320 "data/maps/Route101/scripts.pory"

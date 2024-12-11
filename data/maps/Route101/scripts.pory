@@ -310,11 +310,11 @@ script LostEevee_EventScript {
     msgbox(format("The Eevee nuzzles your hand as you pet it. It looks like it wants to join your adventure."))
     msgbox(format("Do you want to pick it up?"), MSGBOX_YESNO)
     if(var(VAR_RESULT) == YES) {
-      msgbox(format("It yelps excitedly and you notice that it has its Poké Ball and a Soothe Bell hanging from its Collar."))
+      msgbox(format("It yelps excitedly and you notice that it has its Poké Ball and a Soothe Bell hanging from its collar."))
       givemon(SPECIES_EEVEE, 5, ITEM_SOOTHE_BELL)
       playfanfare(MUS_OBTAIN_ITEM)
       removeobject(7)
-      setflag(FLAG_UNUSED_0x020)
+      setflag(FLAG_HIDE_LOSTEEVEE_BALL)
       msgbox("Eevee has joined your party!\p"
              "Give it a nickname?", MSGBOX_YESNO)
       if (var(VAR_RESULT) == YES) {
