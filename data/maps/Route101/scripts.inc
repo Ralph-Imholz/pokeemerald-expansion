@@ -678,7 +678,7 @@ LostEevee_EventScript_Text_3:
 # 313 "data/maps/Route101/scripts.pory"
 	.string "It yelps excitedly and you notice that\n"
 	.string "it has its Poké Ball and a Soothe Bell\l"
-	.string "hanging from its Collar.$"
+	.string "hanging from its collar.$"
 
 LostEevee_EventScript_Text_4:
 # 318 "data/maps/Route101/scripts.pory"
