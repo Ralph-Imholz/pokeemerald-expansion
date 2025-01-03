@@ -2408,4 +2408,11 @@ const struct Ability gAbilitiesInfo[ABILITIES_COUNT] =
         .cantBeSwapped = TRUE,
         .cantBeTraced = TRUE,
     },
+
+    [ABILITY_AGONIZING_FLAMES] =
+    {
+        .name = _("Agonizing Flames"),
+        .description = COMPOUND_STRING("Burn chance is guaranteed."),
+        .aiRating = 6
+    }
 };

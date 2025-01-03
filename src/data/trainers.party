@@ -4789,38 +4789,41 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Crunch
 
 === TRAINER_ROXANNE_1 ===
-Name: ROXANNE
+Name: DENNIS
 Class: Leader
-Pic: Leader Roxanne
-Gender: Female
-Music: Female
+Pic: Elite Four Sidney
+Gender: Male
+Music: Male
 Items: Potion / Potion
 Double Battle: No
 AI: Basic Trainer
 
-Geodude
-Level: 12
+Growlithe-Hisui  
+Ability: Flash Fire  
+Level: 12  
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
+- Bite  
+- Leer  
+- Scary Face  
+- Ember  
 
-Geodude
-Level: 12
+Corsola  
+Ability: Natural Cure  
+Level: 12  
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
+- Rock Tomb  
+- Sandstorm  
+- Confuse Ray  
+- Water Gun  
 
-Nosepass @ Oran Berry
-Level: 15
+Larvitar @ Oran Berry  
+Ability: Guts  
+Level: 15  
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Block
-- Harden
-- Tackle
-- Rock Tomb
+- Bite  
+- Rock Tomb  
+- Sandstorm  
+- Bulldoze 
 
 === TRAINER_BRAWLY_1 ===
 Name: BRAWLY
@@ -9502,17 +9505,18 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Future Sight
 
 === TRAINER_BRENDAN_ROUTE_103_MUDKIP ===
-Name: BRENDAN
+Name: ALEX
 Class: Rival
-Pic: Brendan
+Pic: Pokefan M
 Gender: Male
 Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Treecko
+Quaxly
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Pound
 
 === TRAINER_BRENDAN_ROUTE_110_MUDKIP ===
 Name: BRENDAN
@@ -9557,17 +9561,18 @@ Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_TREECKO ===
-Name: BRENDAN
+Name: ALEX
 Class: Rival
-Pic: Brendan
+Pic: Pokefan M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: Basic Trainer
 
-Torchic
+Quaxly
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Pound
 
 === TRAINER_BRENDAN_ROUTE_110_TREECKO ===
 Name: BRENDAN
@@ -9612,17 +9617,18 @@ Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_TORCHIC ===
-Name: BRENDAN
+Name: ALEX
 Class: Rival
-Pic: Brendan
+Pic: Pokefan M
 Gender: Male
 Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Mudkip
+Quaxly
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Pound
 
 === TRAINER_BRENDAN_ROUTE_110_TORCHIC ===
 Name: BRENDAN
@@ -9667,17 +9673,18 @@ Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_MUDKIP ===
-Name: MAY
+Name: ALEX
 Class: Rival
-Pic: May
-Gender: Female
-Music: Female
+Pic: Pokefan M
+Gender: Male
+Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Treecko
+Quaxly
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Pound
 
 === TRAINER_MAY_ROUTE_110_MUDKIP ===
 Name: MAY
@@ -9722,17 +9729,18 @@ Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_TREECKO ===
-Name: MAY
+Name: ALEX
 Class: Rival
-Pic: May
-Gender: Female
-Music: Female
+Pic: Pokefan M
+Gender: Male
+Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Torchic
+Quaxly
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Pound
 
 === TRAINER_MAY_ROUTE_110_TREECKO ===
 Name: MAY
@@ -9777,17 +9785,18 @@ Level: 31
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_TORCHIC ===
-Name: MAY
+Name: ALEX
 Class: Rival
-Pic: May
-Gender: Female
-Music: Female
+Pic: Pokefan M
+Gender: Male
+Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Mudkip
+Quaxly
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Pound
 
 === TRAINER_MAY_ROUTE_110_TORCHIC ===
 Name: MAY

@@ -910,42 +910,35 @@ LittlerootTown_EventScript_GiveRunningShoes::
 	return
 
 LittlerootTown_Text_OurNewHomeLetsGoInside:
-	.string "MOM: {PLAYER}, we're here, honey!\p"
-	.string "It must be tiring riding with our things\n"
-	.string "in the moving truck.\p"
-	.string "Well, this is LITTLEROOT TOWN.\p"
-	.string "How do you like it?\n"
-	.string "This is our new home!\p"
-	.string "It has a quaint feel, but it seems to be\n"
-	.string "an easy place to live, don't you think?\p"
-	.string "And, you get your own room, {PLAYER}!\n"
-	.string "Let's go inside.$"
+	.string "JOSE: {PLAYER}, we're here, honey!\p"
+	.string "We really had no choice but to stick you\n"
+	.string "in the back of the moving truck.\p"
+	.string "Anyway, this is LITTLEROOT TOWN!\p"
+	.string "Your father volunteered to be\n"
+	.string "PETALBURG's interim gym leader,\p"
+	.string "but the original guy never came back\n"
+	.string "so we had to move here permanently…\p"
+	.string "Let's go inside. I need your help\n"
+	.string "with something.$"
 
 LittlerootTown_Text_WaitPlayer:
-	.string "MOM: Wait, {PLAYER}!$"
+	.string "JOSE: Wait, {PLAYER}!$"
 
 LittlerootTown_Text_WearTheseRunningShoes:
-	.string "MOM: {PLAYER}! {PLAYER}! Did you\n"
-	.string "introduce yourself to PROF. BIRCH?\p"
-	.string "Oh! What an adorable POKéMON!\n"
-	.string "You got it from PROF. BIRCH. How nice!\p"
-	.string "You're your father's child, all right.\n"
-	.string "You look good together with POKéMON!\p"
-	.string "Here, honey! If you're going out on an\n"
-	.string "adventure, wear these RUNNING SHOES.\p"
-	.string "They'll put a zip in your step!$"
+	.string "JOSE: {PLAYER}! I heard that you had\n"
+	.string "to save PROF. BIRCH from a ZIGZAGOON?\p"  
+	.string "You'd think a POKéMON professor would\n"  
+	.string "be able to handle that himself!\p"
+	.string "Wait are your shoelaces untied?\p"
+	.string "You're going to trip on them!$"
 
 LittlerootTown_Text_SwitchShoesWithRunningShoes:
-	.string "{PLAYER} switched shoes with the\n"
-	.string "RUNNING SHOES.$"
+	.string "JOSE tied {PLAYER}'s shoelaces.$"
 
 LittlerootTown_Text_ExplainRunningShoes:
-	.string "MOM: {PLAYER}, those shoes came with\n"
-	.string "instructions.\p"
-	.string "“Press the B Button while wearing these\n"
-	.string "RUNNING SHOES to run extra-fast!\p"
-	.string "“Slip on these RUNNING SHOES and race\n"
-	.string "in the great outdoors!”$"
+	.string "JOSE: Your father said that he had\n"
+	.string "to help a boy catch his first POKéMON.\p"
+	.string "Maybe you could help as well?$"
 
 LittlerootTown_Text_ComeHomeIfAnythingHappens:
 	.string "… … … … … … … …\n"
