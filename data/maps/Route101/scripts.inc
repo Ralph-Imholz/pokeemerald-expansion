@@ -636,7 +636,7 @@ LostEevee_EventScript_4:
 # 313 "data/maps/Route101/scripts.pory"
 	msgbox LostEevee_EventScript_Text_3
 # 314 "data/maps/Route101/scripts.pory"
-	givemon SPECIES_HOUNDOUR, 5, ITEM_SOOTHE_BELL
+	givemon SPECIES_EEVEE, 5, ITEM_SOOTHE_BELL
 # 315 "data/maps/Route101/scripts.pory"
 	playfanfare MUS_OBTAIN_ITEM
 # 316 "data/maps/Route101/scripts.pory"
